@@ -1,0 +1,1 @@
+FastText crawl-300d-2M available at "https://www.kaggle.com/datasets/yekenot/fasttext-crawl-300d-2m"
